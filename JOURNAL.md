@@ -1,14 +1,17 @@
-Made by: @tmshader <br>
-Repository link: https://github.com/tmshader/pancake-flipper <br>
-Total hours so far: 10
+# Pancake Flipper
+An upside-down toolchanger printer with belted Z axis
+
+**Made by:** @tmshader ([GitHub](https://github.com/tmshader)) <br>
+**Repository link:** [https://github.com/tmshader/pancake-flipper](https://github.com/tmshader/pancake-flipper) <br>
+**Total hours so far:** 10
 
 - [x] I have a 3D printer or will be getting one before March 21st
 
-### **Objective/speciality of the printer**: Upside-down style toolchanger printer with belted Z axis
+## Log
 
-(I'm not sure I'm happy with the name, so it might change in the future)
+### Day 0 -  Big research day
+*(2025. 03. 06.)*
 
-# 2025. 03. 06. - Big research day
 Started planning out the printer (a bit late tbh 😅). Done a lot of research today and some CAD work.
 
 The current plan is the following:
