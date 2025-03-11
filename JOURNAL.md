@@ -3,7 +3,7 @@ An upside-down toolchanger printer with belted Z axis
 
 **Made by:** @tmshader ([GitHub](https://github.com/tmshader)) <br>
 **Repository:** [https://github.com/tmshader/pancake-flipper](https://github.com/tmshader/pancake-flipper) <br>
-**Total hours so far:** 40
+**Total hours so far:** 44
 
 - [x] I have a 3D printer or will be getting one before March 21st
 
@@ -114,3 +114,18 @@ leveling sensors or possible LEDs.
 I'm currently designing the belt path and the tensioner for it. It's quite fun
 routing and modeling the belt and picking out the different bearings, pulleys
 and idlers.
+
+<br>
+
+### Day 5 - Belt, idler, pulley... belt, idler, pulley...
+*(2025. 03. 11.)* <br>
+*Hours: 4*
+
+The belt path for the printer has been adjusted and tweaked and I think it is
+now close to done. I might have to make slight adjustments once I get to the
+modeling part of the planning phase, but for now I'm satisfied with how it looks
+and behaves.
+
+I changed and modified the position of most pulleys and idlers. This way the
+assembly should be easier and less parts are needed, which makes the printer
+cheaper in return.
